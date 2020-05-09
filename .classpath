@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Design/src"/>
+	<classpathentry kind="lib" path="lib/edisoncorSX.jar"/>
+	<classpathentry kind="lib" path="lib/JPlaceHolder.jar"/>
+	<classpathentry kind="lib" path="lib/JPlaceHolderPassw.jar"/>
+	<classpathentry kind="output" path="Design/build/classes"/>
+</classpath>
